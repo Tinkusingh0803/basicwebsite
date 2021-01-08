@@ -1,0 +1,1 @@
+# This is testing of cloneing basic website from GitHub using spck editor
